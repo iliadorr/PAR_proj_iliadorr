@@ -1,0 +1,1002 @@
+{
+    "figure_1": {
+        "diag": "6.4031242374328485",
+        "volume": "12",
+        "surface_area": "40",
+        "alpha": "1.2531331338126361",
+        "beta": "1.4139806414504958",
+        "gamma": "0.3567333885140938",
+        "radius_described_sphere": "3.2015621187164243",
+        "volume_described_sphere": "137.45938843966883"
+    },
+    "figure_2": {
+        "diag": "23.49468024894146",
+        "volume": "2240",
+        "surface_area": "1048",
+        "alpha": "0.8216618315402628",
+        "beta": "1.1311402603991678",
+        "gamma": "0.9324358664011199",
+        "radius_described_sphere": "11.74734012447073",
+        "volume_described_sphere": "6790.585767903444"
+    },
+    "figure_3": {
+        "diag": "28.337254630609507",
+        "volume": "3249",
+        "surface_area": "1406",
+        "alpha": "0.8359199546366731",
+        "beta": "1.2475956890047912",
+        "gamma": "0.8359199546366731",
+        "radius_described_sphere": "14.168627315304754",
+        "volume_described_sphere": "11914.393518208703"
+    },
+    "figure_4": {
+        "diag": "25.03996805109783",
+        "volume": "2873",
+        "surface_area": "1222",
+        "alpha": "1.024916806747768",
+        "beta": "0.8245130077049075",
+        "gamma": "1.024916806747768",
+        "radius_described_sphere": "12.519984025548915",
+        "volume_described_sphere": "8220.532176084742"
+    },
+    "figure_5": {
+        "diag": "16.55294535724685",
+        "volume": "144",
+        "surface_area": "210",
+        "alpha": "1.388552568869558",
+        "beta": "0.2591999375009274",
+        "gamma": "1.388552568869558",
+        "radius_described_sphere": "8.276472678623424",
+        "volume_described_sphere": "2374.785926518399"
+    },
+    "figure_6": {
+        "diag": "20.445048300260872",
+        "volume": "1260",
+        "surface_area": "738",
+        "alpha": "0.943523195142403",
+        "beta": "1.2213462299358238",
+        "gamma": "0.7470831638300733",
+        "radius_described_sphere": "10.222524150130436",
+        "volume_described_sphere": "4474.690943453033"
+    },
+    "figure_7": {
+        "diag": "16.431676725154983",
+        "volume": "770",
+        "surface_area": "514",
+        "alpha": "1.1307223067971823",
+        "beta": "0.9165257428353766",
+        "gamma": "0.8373434076942523",
+        "radius_described_sphere": "8.215838362577491",
+        "volume_described_sphere": "2322.9735698659174"
+    },
+    "figure_8": {
+        "diag": "13.152946437965905",
+        "volume": "264",
+        "surface_area": "268",
+        "alpha": "0.5802702545706248",
+        "beta": "1.0971080448311648",
+        "gamma": "1.2617877002075577",
+        "radius_described_sphere": "6.576473218982953",
+        "volume_described_sphere": "1191.427930524209"
+    },
+    "figure_9": {
+        "diag": "21.18962010041709",
+        "volume": "396",
+        "surface_area": "512",
+        "alpha": "1.0249728454732447",
+        "beta": "1.4762697840483172",
+        "gamma": "0.5558115478662862",
+        "radius_described_sphere": "10.594810050208546",
+        "volume_described_sphere": "4981.5917538471995"
+    },
+    "figure_10": {
+        "diag": "23.065125189341593",
+        "volume": "1728",
+        "surface_area": "912",
+        "alpha": "0.6754926950512806",
+        "beta": "1.2165922210084263",
+        "gamma": "1.0236339531979604",
+        "radius_described_sphere": "11.532562594670797",
+        "volume_described_sphere": "6424.895535941514"
+    },
+    "figure_11": {
+        "diag": "25.03996805109783",
+        "volume": "2873",
+        "surface_area": "1222",
+        "alpha": "1.024916806747768",
+        "beta": "1.024916806747768",
+        "gamma": "0.8245130077049075",
+        "radius_described_sphere": "12.519984025548915",
+        "volume_described_sphere": "8220.532176084742"
+    },
+    "figure_12": {
+        "diag": "13.638181696985855",
+        "volume": "52",
+        "surface_area": "138",
+        "alpha": "1.2731255343851406",
+        "beta": "0.30712641838107246",
+        "gamma": "1.4974069077044687",
+        "radius_described_sphere": "6.819090848492928",
+        "volume_described_sphere": "1328.2139542547795"
+    },
+    "figure_13": {
+        "diag": "20.83266665599966",
+        "volume": "1716",
+        "surface_area": "862",
+        "alpha": "0.8969196083497735",
+        "beta": "1.0145326286141951",
+        "gamma": "0.9569468389201846",
+        "radius_described_sphere": "10.41633332799983",
+        "volume_described_sphere": "4734.054099031555"
+    },
+    "figure_14": {
+        "diag": "16.673332000533065",
+        "volume": "210",
+        "surface_area": "298",
+        "alpha": "1.1375360068589389",
+        "beta": "1.450554764646558",
+        "gamma": "0.45185151117846745",
+        "radius_described_sphere": "8.336666000266533",
+        "volume_described_sphere": "2426.9778693332064"
+    },
+    "figure_15": {
+        "diag": "25.67099530598687",
+        "volume": "969",
+        "surface_area": "862",
+        "alpha": "0.8470107229802454",
+        "beta": "1.4536652688635356",
+        "gamma": "0.7375253569625914",
+        "radius_described_sphere": "12.835497652993435",
+        "volume_described_sphere": "8857.8178272883"
+    },
+    "figure_16": {
+        "diag": "17.291616465790582",
+        "volume": "819",
+        "surface_area": "542",
+        "alpha": "1.0233793011641246",
+        "beta": "0.7199944153585949",
+        "gamma": "1.15401386119789",
+        "radius_described_sphere": "8.645808232895291",
+        "volume_described_sphere": "2707.106893671396"
+    },
+    "figure_17": {
+        "diag": "20.223748416156685",
+        "volume": "324",
+        "surface_area": "432",
+        "alpha": "1.1095982153870363",
+        "beta": "0.47335746168699117",
+        "gamma": "1.4717407821117743",
+        "radius_described_sphere": "10.111874208078342",
+        "volume_described_sphere": "4330.954132661439"
+    },
+    "figure_18": {
+        "diag": "17.46424919657298",
+        "volume": "780",
+        "surface_area": "536",
+        "alpha": "0.9611246322534344",
+        "beta": "1.2200923696318684",
+        "gamma": "0.7311936921166294",
+        "radius_described_sphere": "8.73212459828649",
+        "volume_described_sphere": "2788.999146301101"
+    },
+    "figure_19": {
+        "diag": "14.247806848775006",
+        "volume": "99",
+        "surface_area": "238",
+        "alpha": "0.6887381000211714",
+        "beta": "0.8870828686082005",
+        "gamma": "1.500552333875118",
+        "radius_described_sphere": "7.123903424387503",
+        "volume_described_sphere": "1514.4072468588688"
+    },
+    "figure_20": {
+        "diag": "21.18962010041709",
+        "volume": "816",
+        "surface_area": "640",
+        "alpha": "0.9687684213475933",
+        "beta": "1.380885148161767",
+        "gamma": "0.6396920889879315",
+        "radius_described_sphere": "10.594810050208546",
+        "volume_described_sphere": "4981.5917538471995"
+    },
+    "figure_21": {
+        "diag": "15.033296378372908",
+        "volume": "108",
+        "surface_area": "258",
+        "alpha": "1.5042281630190728",
+        "beta": "0.646448444729729",
+        "gamma": "0.928955316898781",
+        "radius_described_sphere": "7.516648189186454",
+        "volume_described_sphere": "1778.9399203844612"
+    },
+    "figure_22": {
+        "diag": "17.08800749063506",
+        "volume": "288",
+        "surface_area": "384",
+        "alpha": "1.4534863015803035",
+        "beta": "0.7922476926991783",
+        "gamma": "0.7922476926991783",
+        "radius_described_sphere": "8.54400374531753",
+        "volume_described_sphere": "2612.599861457234"
+    },
+    "figure_23": {
+        "diag": "22.22611077089287",
+        "volume": "234",
+        "surface_area": "530",
+        "alpha": "0.9460424580298534",
+        "beta": "1.525789006354071",
+        "gamma": "0.6268858247745432",
+        "radius_described_sphere": "11.113055385446435",
+        "volume_described_sphere": "5748.956806660125"
+    },
+    "figure_24": {
+        "diag": "25.475478405713993",
+        "volume": "2700",
+        "surface_area": "1200",
+        "alpha": "0.9412210658329858",
+        "beta": "0.7861685797269509",
+        "gamma": "1.1674108492787312",
+        "radius_described_sphere": "12.737739202856996",
+        "volume_described_sphere": "8656.965116357273"
+    },
+    "figure_25": {
+        "diag": "1.7320508075688772",
+        "volume": "1",
+        "surface_area": "6",
+        "alpha": "0.9553166181245092",
+        "beta": "0.9553166181245092",
+        "gamma": "0.9553166181245092",
+        "radius_described_sphere": "0.8660254037844386",
+        "volume_described_sphere": "2.720699046351326"
+    },
+    "figure_26": {
+        "diag": "24.779023386727733",
+        "volume": "306",
+        "surface_area": "682",
+        "alpha": "0.7576966976171744",
+        "beta": "1.530428648553289",
+        "gamma": "0.8147309469373808",
+        "radius_described_sphere": "12.389511693363866",
+        "volume_described_sphere": "7966.199511768722"
+    },
+    "figure_27": {
+        "diag": "22.494443758403985",
+        "volume": "1872",
+        "surface_area": "938",
+        "alpha": "1.1591716763417597",
+        "beta": "0.7794691706957442",
+        "gamma": "0.9546180683055379",
+        "radius_described_sphere": "11.247221879201993",
+        "volume_described_sphere": "5959.699984090552"
+    },
+    "figure_28": {
+        "diag": "32.341923257592455",
+        "volume": "6498",
+        "surface_area": "2090",
+        "alpha": "0.9428639623477351",
+        "beta": "0.9805650652088578",
+        "gamma": "0.9428639623477351",
+        "radius_described_sphere": "16.170961628796228",
+        "volume_described_sphere": "17713.164223405347"
+    },
+    "figure_29": {
+        "diag": "4.242640687119285",
+        "volume": "4",
+        "surface_area": "18",
+        "alpha": "0.33983690945412165",
+        "beta": "1.3328552019646884",
+        "gamma": "1.3328552019646884",
+        "radius_described_sphere": "2.1213203435596424",
+        "volume_described_sphere": "39.98594644342528"
+    },
+    "figure_30": {
+        "diag": "20.615528128088304",
+        "volume": "960",
+        "surface_area": "664",
+        "alpha": "0.9495051952604711",
+        "beta": "1.3258176636680326",
+        "gamma": "0.6823165548747481",
+        "radius_described_sphere": "10.307764064044152",
+        "volume_described_sphere": "4587.562746626213"
+    },
+    "figure_31": {
+        "diag": "22.22611077089287",
+        "volume": "1950",
+        "surface_area": "950",
+        "alpha": "0.8299916713787331",
+        "beta": "1.1041191457187587",
+        "gamma": "0.9460424580298534",
+        "radius_described_sphere": "11.113055385446435",
+        "volume_described_sphere": "5748.956806660125"
+    },
+    "figure_32": {
+        "diag": "29.546573405388315",
+        "volume": "4864",
+        "surface_area": "1728",
+        "alpha": "0.8723186930248771",
+        "beta": "0.998554657659303",
+        "gamma": "0.998554657659303",
+        "radius_described_sphere": "14.773286702694158",
+        "volume_described_sphere": "13505.789851596886"
+    },
+    "figure_33": {
+        "diag": "25.98076211353316",
+        "volume": "1615",
+        "surface_area": "1006",
+        "alpha": "0.7505551550025373",
+        "beta": "1.37713802635057",
+        "gamma": "0.8574996411708073",
+        "radius_described_sphere": "12.99038105676658",
+        "volume_described_sphere": "9182.359281435727"
+    },
+    "figure_34": {
+        "diag": "10.816653826391969",
+        "volume": "40",
+        "surface_area": "108",
+        "alpha": "1.1920024339695",
+        "beta": "1.4782140897753895",
+        "gamma": "0.39107367759646783",
+        "radius_described_sphere": "5.408326913195984",
+        "volume_described_sphere": "662.6396438496304"
+    },
+    "figure_35": {
+        "diag": "20.223748416156685",
+        "volume": "1584",
+        "surface_area": "816",
+        "alpha": "0.995700751707199",
+        "beta": "0.9355673870460387",
+        "gamma": "0.9355673870460387",
+        "radius_described_sphere": "10.111874208078342",
+        "volume_described_sphere": "4330.954132661439"
+    },
+    "figure_36": {
+        "diag": "23.727621035409346",
+        "volume": "1881",
+        "surface_area": "958",
+        "alpha": "0.6422425045278862",
+        "beta": "1.1817515180572185",
+        "gamma": "1.0887483767871258",
+        "radius_described_sphere": "11.863810517704673",
+        "volume_described_sphere": "6994.573120286435"
+    },
+    "figure_37": {
+        "diag": "13.152946437965905",
+        "volume": "120",
+        "surface_area": "188",
+        "alpha": "1.180845471117502",
+        "beta": "0.42182537075512966",
+        "gamma": "1.4181469983996315",
+        "radius_described_sphere": "6.576473218982953",
+        "volume_described_sphere": "1191.427930524209"
+    },
+    "figure_38": {
+        "diag": "17.4928556845359",
+        "volume": "968",
+        "surface_area": "594",
+        "alpha": "0.8907511578419853",
+        "beta": "0.8907511578419853",
+        "gamma": "1.0958063198780297",
+        "radius_described_sphere": "8.74642784226795",
+        "volume_described_sphere": "2802.7267723510654"
+    },
+    "figure_39": {
+        "diag": "20.322401432901575",
+        "volume": "1560",
+        "surface_area": "812",
+        "alpha": "0.9391411266229595",
+        "beta": "0.8767038092300916",
+        "gamma": "1.0563328667970704",
+        "radius_described_sphere": "10.161200716450788",
+        "volume_described_sphere": "4394.644001591048"
+    },
+    "figure_40": {
+        "diag": "20.09975124224178",
+        "volume": "576",
+        "surface_area": "496",
+        "alpha": "1.1614444074158994",
+        "beta": "0.4611677390020505",
+        "gamma": "1.3704513307667443",
+        "radius_described_sphere": "10.04987562112089",
+        "volume_described_sphere": "4251.778876668345"
+    },
+    "figure_41": {
+        "diag": "20.024984394500787",
+        "volume": "588",
+        "surface_area": "560",
+        "alpha": "1.420417342106465",
+        "beta": "0.7966210508832879",
+        "gamma": "0.7966210508832879",
+        "radius_described_sphere": "10.012492197250394",
+        "volume_described_sphere": "4204.507981444598"
+    },
+    "figure_42": {
+        "diag": "18.05547008526779",
+        "volume": "882",
+        "surface_area": "574",
+        "alpha": "1.1726675585753095",
+        "beta": "0.6834665860418145",
+        "gamma": "1.0489703825770782",
+        "radius_described_sphere": "9.027735042633894",
+        "volume_described_sphere": "3081.9459816163244"
+    },
+    "figure_43": {
+        "diag": "19.44222209522358",
+        "volume": "76",
+        "surface_area": "198",
+        "alpha": "1.3635787505726513",
+        "beta": "1.519339171438013",
+        "gamma": "0.21369231624932353",
+        "radius_described_sphere": "9.72111104761179",
+        "volume_described_sphere": "3848.01115254038"
+    },
+    "figure_44": {
+        "diag": "8.660254037844387",
+        "volume": "35",
+        "surface_area": "94",
+        "alpha": "0.9553166181245093",
+        "beta": "1.455068120905584",
+        "gamma": "0.6295536766815493",
+        "radius_described_sphere": "4.330127018922194",
+        "volume_described_sphere": "340.0873807939159"
+    },
+    "figure_45": {
+        "diag": "29.223278392404914",
+        "volume": "4446",
+        "surface_area": "1646",
+        "alpha": "1.1097886172705063",
+        "beta": "0.9072084178367195",
+        "gamma": "0.862992619883835",
+        "radius_described_sphere": "14.611639196202457",
+        "volume_described_sphere": "13067.286958587645"
+    },
+    "figure_46": {
+        "diag": "15.132745950421556",
+        "volume": "504",
+        "surface_area": "396",
+        "alpha": "0.6551076942646612",
+        "beta": "1.0899011357514932",
+        "gamma": "1.1631047549503617",
+        "radius_described_sphere": "7.566372975210778",
+        "volume_described_sphere": "1814.478580497513"
+    },
+    "figure_47": {
+        "diag": "21.633307652783937",
+        "volume": "896",
+        "surface_area": "688",
+        "alpha": "0.8669559272568841",
+        "beta": "0.7383200863655636",
+        "gamma": "1.3848261534007067",
+        "radius_described_sphere": "10.816653826391969",
+        "volume_described_sphere": "5301.117150797043"
+    },
+    "figure_48": {
+        "diag": "15.165750888103101",
+        "volume": "630",
+        "surface_area": "446",
+        "alpha": "0.9354672333394408",
+        "beta": "0.8508019114363019",
+        "gamma": "1.0910362727830343",
+        "radius_described_sphere": "7.582875444051551",
+        "volume_described_sphere": "1826.3767770891072"
+    },
+    "figure_49": {
+        "diag": "23.021728866442675",
+        "volume": "1680",
+        "surface_area": "914",
+        "alpha": "0.8611594303757165",
+        "beta": "1.2618441731053163",
+        "gamma": "0.8023825616082507",
+        "radius_described_sphere": "11.510864433221338",
+        "volume_described_sphere": "6388.698994711459"
+    },
+    "figure_50": {
+        "diag": "21.0",
+        "volume": "608",
+        "surface_area": "520",
+        "alpha": "1.1799701962194549",
+        "beta": "1.3791491318194802",
+        "gamma": "0.4399759547909189",
+        "radius_described_sphere": "10.5",
+        "volume_described_sphere": "4849.048260815845"
+    },
+    "figure_51": {
+        "diag": "24.899799195977465",
+        "volume": "2520",
+        "surface_area": "1144",
+        "alpha": "1.1575225183004432",
+        "beta": "0.9736879817425853",
+        "gamma": "0.7628098354866466",
+        "radius_described_sphere": "12.449899597988733",
+        "volume_described_sphere": "8083.25271042753"
+    },
+    "figure_52": {
+        "diag": "19.0",
+        "volume": "108",
+        "surface_area": "264",
+        "alpha": "1.518140418533327",
+        "beta": "1.2495077375300863",
+        "gamma": "0.32588295722103894",
+        "radius_described_sphere": "9.5",
+        "volume_described_sphere": "3591.3640018287315"
+    },
+    "figure_53": {
+        "diag": "13.92838827718412",
+        "volume": "156",
+        "surface_area": "206",
+        "alpha": "0.36717383381821933",
+        "beta": "1.3537077542304736",
+        "gamma": "1.2795113984254936",
+        "radius_described_sphere": "6.96419413859206",
+        "volume_described_sphere": "1414.8200873103128"
+    },
+    "figure_54": {
+        "diag": "18.681541692269406",
+        "volume": "504",
+        "surface_area": "492",
+        "alpha": "1.409511674829288",
+        "beta": "0.8732419156305328",
+        "gamma": "0.7236366396758924",
+        "radius_described_sphere": "9.340770846134703",
+        "volume_described_sphere": "3413.789692369931"
+    },
+    "figure_55": {
+        "diag": "16.881943016134134",
+        "volume": "160",
+        "surface_area": "244",
+        "alpha": "0.32466323589236584",
+        "beta": "1.452047663952033",
+        "gamma": "1.2701114355680654",
+        "radius_described_sphere": "8.440971508067067",
+        "volume_described_sphere": "2519.2189374959044"
+    },
+    "figure_56": {
+        "diag": "18.384776310850235",
+        "volume": "840",
+        "surface_area": "562",
+        "alpha": "1.120599636862166",
+        "beta": "1.1801892830972098",
+        "gamma": "0.6165253388262627",
+        "radius_described_sphere": "9.192388155425117",
+        "volume_described_sphere": "3253.671271711309"
+    },
+    "figure_57": {
+        "diag": "17.72004514666935",
+        "volume": "336",
+        "surface_area": "362",
+        "alpha": "1.4006771624841634",
+        "beta": "1.1646927137738925",
+        "gamma": "0.44425236897822395",
+        "radius_described_sphere": "8.860022573334675",
+        "volume_described_sphere": "2913.3528978955915"
+    },
+    "figure_58": {
+        "diag": "7.874007874011811",
+        "volume": "42",
+        "surface_area": "82",
+        "alpha": "0.4756377154909245",
+        "beta": "1.3139824093740895",
+        "gamma": "1.1799182809708484",
+        "radius_described_sphere": "3.9370039370059056",
+        "volume_described_sphere": "255.6148946768048"
+    },
+    "figure_59": {
+        "diag": "19.026297590440446",
+        "volume": "660",
+        "surface_area": "538",
+        "alpha": "0.6626210711116162",
+        "beta": "0.9543402876936753",
+        "gamma": "1.358980661049928",
+        "radius_described_sphere": "9.513148795220223",
+        "volume_described_sphere": "3606.296896353499"
+    },
+    "figure_60": {
+        "diag": "21.400934559032695",
+        "volume": "1560",
+        "surface_area": "838",
+        "alpha": "1.1876770192128858",
+        "beta": "0.7941322320243508",
+        "gamma": "0.9179496956941223",
+        "radius_described_sphere": "10.700467279516348",
+        "volume_described_sphere": "5132.120434350128"
+    },
+    "figure_61": {
+        "diag": "21.77154105707724",
+        "volume": "1496",
+        "surface_area": "822",
+        "alpha": "0.6747936842137976",
+        "beta": "1.0411284751302161",
+        "gamma": "1.1945282711457321",
+        "radius_described_sphere": "10.88577052853862",
+        "volume_described_sphere": "5403.38776193715"
+    },
+    "figure_62": {
+        "diag": "19.87460691435179",
+        "volume": "765",
+        "surface_area": "566",
+        "alpha": "1.1008491997634806",
+        "beta": "1.316486696953243",
+        "gamma": "0.5445454888951442",
+        "radius_described_sphere": "9.937303457175895",
+        "volume_described_sphere": "4110.4963391115725"
+    },
+    "figure_63": {
+        "diag": "22.090722034374522",
+        "volume": "1440",
+        "surface_area": "808",
+        "alpha": "1.1010291108681984",
+        "beta": "1.200230420260602",
+        "gamma": "0.6183747402614918",
+        "radius_described_sphere": "11.045361017187261",
+        "volume_described_sphere": "5644.53740452906"
+    },
+    "figure_64": {
+        "diag": "21.748563170931547",
+        "volume": "1260",
+        "surface_area": "752",
+        "alpha": "0.5959050313221501",
+        "beta": "1.0930258092865621",
+        "gamma": "1.2431025931725332",
+        "radius_described_sphere": "10.874281585465774",
+        "volume_described_sphere": "5386.297455383314"
+    },
+    "figure_65": {
+        "diag": "26.94438717061496",
+        "volume": "3458",
+        "surface_area": "1390",
+        "alpha": "1.0673178844613775",
+        "beta": "1.0244267887469383",
+        "gamma": "0.7881529982719058",
+        "radius_described_sphere": "13.47219358530748",
+        "volume_described_sphere": "10242.442943672646"
+    },
+    "figure_66": {
+        "diag": "23.790754506740637",
+        "volume": "2142",
+        "surface_area": "1034",
+        "alpha": "0.9416386949061823",
+        "beta": "0.7747966623534938",
+        "gamma": "1.1828391293903744",
+        "radius_described_sphere": "11.895377253370318",
+        "volume_described_sphere": "7050.554420543634"
+    },
+    "figure_67": {
+        "diag": "14.071247279470288",
+        "volume": "130",
+        "surface_area": "202",
+        "alpha": "0.3927245893000336",
+        "beta": "1.207524400868256",
+        "gamma": "1.4281795472341376",
+        "radius_described_sphere": "7.035623639735144",
+        "volume_described_sphere": "1458.802193640964"
+    },
+    "figure_68": {
+        "diag": "20.904544960366874",
+        "volume": "1008",
+        "surface_area": "652",
+        "alpha": "0.5334521186475459",
+        "beta": "1.1780880813051886",
+        "gamma": "1.2293445482004297",
+        "radius_described_sphere": "10.452272480183437",
+        "volume_described_sphere": "4783.224641665518"
+    },
+    "figure_69": {
+        "diag": "13.674794331177344",
+        "volume": "117",
+        "surface_area": "174",
+        "alpha": "1.3496156120165668",
+        "beta": "0.3154587474192095",
+        "gamma": "1.3496156120165668",
+        "radius_described_sphere": "6.837397165588672",
+        "volume_described_sphere": "1338.9397412838837"
+    },
+    "figure_70": {
+        "diag": "18.16590212458495",
+        "volume": "560",
+        "surface_area": "454",
+        "alpha": "1.291956011925197",
+        "beta": "0.49330840395654907",
+        "gamma": "1.17522298526517",
+        "radius_described_sphere": "9.082951062292475",
+        "volume_described_sphere": "3138.842556323501"
+    },
+    "figure_71": {
+        "diag": "5.196152422706632",
+        "volume": "5",
+        "surface_area": "22",
+        "alpha": "0.2756427992162655",
+        "beta": "1.37713802635057",
+        "gamma": "1.37713802635057",
+        "radius_described_sphere": "2.598076211353316",
+        "volume_described_sphere": "73.45887425148582"
+    },
+    "figure_72": {
+        "diag": "26.90724809414742",
+        "volume": "3456",
+        "surface_area": "1392",
+        "alpha": "0.9339843425551272",
+        "beta": "1.1085313688178442",
+        "gamma": "0.83798122500839",
+        "radius_described_sphere": "13.45362404707371",
+        "volume_described_sphere": "10200.14796153424"
+    },
+    "figure_73": {
+        "diag": "14.491376746189438",
+        "volume": "260",
+        "surface_area": "274",
+        "alpha": "0.45766827149381767",
+        "beta": "1.2911390839210954",
+        "gamma": "1.218522617568474",
+        "radius_described_sphere": "7.245688373094719",
+        "volume_described_sphere": "1593.4100954180742"
+    },
+    "figure_74": {
+        "diag": "22.02271554554524",
+        "volume": "1680",
+        "surface_area": "884",
+        "alpha": "1.1990304018815348",
+        "beta": "0.8215120295102669",
+        "gamma": "0.8818719385800352",
+        "radius_described_sphere": "11.01135777277262",
+        "volume_described_sphere": "5592.5674440735975"
+    },
+    "figure_75": {
+        "diag": "27.477263328068172",
+        "volume": "3705",
+        "surface_area": "1454",
+        "alpha": "0.8072594325877809",
+        "beta": "1.0779692335217492",
+        "gamma": "0.9933263753572971",
+        "radius_described_sphere": "13.738631664034086",
+        "volume_described_sphere": "10862.231383703243"
+    },
+    "figure_76": {
+        "diag": "18.275666882497067",
+        "volume": "306",
+        "surface_area": "342",
+        "alpha": "1.2362873603569424",
+        "beta": "0.37584275424761276",
+        "gamma": "1.405897332218079",
+        "radius_described_sphere": "9.137833441248533",
+        "volume_described_sphere": "3196.08501217456"
+    },
+    "figure_77": {
+        "diag": "13.416407864998739",
+        "volume": "320",
+        "surface_area": "304",
+        "alpha": "0.9319311825594854",
+        "beta": "0.7297276562269663",
+        "gamma": "1.2680503751718923",
+        "radius_described_sphere": "6.708203932499369",
+        "volume_described_sphere": "1264.466651587331"
+    },
+    "figure_78": {
+        "diag": "17.378147196982766",
+        "volume": "630",
+        "surface_area": "482",
+        "alpha": "0.6340928388914414",
+        "beta": "1.2789534448925077",
+        "gamma": "1.02641166034125",
+        "radius_described_sphere": "8.689073598491383",
+        "volume_described_sphere": "2747.9513315411696"
+    },
+    "figure_79": {
+        "diag": "23.0",
+        "volume": "756",
+        "surface_area": "696",
+        "alpha": "1.4399888307171895",
+        "beta": "0.6719508964959136",
+        "gamma": "0.9163807645457199",
+        "radius_described_sphere": "11.5",
+        "volume_described_sphere": "6370.6263027045015"
+    },
+    "figure_80": {
+        "diag": "23.430749027719962",
+        "volume": "544",
+        "surface_area": "676",
+        "alpha": "0.7589742076370352",
+        "beta": "1.4853344129091295",
+        "gamma": "0.8191213575285499",
+        "radius_described_sphere": "11.715374513859981",
+        "volume_described_sphere": "6735.303014743595"
+    },
+    "figure_81": {
+        "diag": "18.76166303929372",
+        "volume": "1152",
+        "surface_area": "672",
+        "alpha": "0.8768157318939026",
+        "beta": "0.8768157318939026",
+        "gamma": "1.1302856637901981",
+        "radius_described_sphere": "9.38083151964686",
+        "volume_described_sphere": "3457.9014960378413"
+    },
+    "figure_82": {
+        "diag": "22.15851980616034",
+        "volume": "1197",
+        "surface_area": "734",
+        "alpha": "1.152543710995227",
+        "beta": "1.2493853695055852",
+        "gamma": "0.5404873864754998",
+        "radius_described_sphere": "11.07925990308017",
+        "volume_described_sphere": "5696.667355231917"
+    },
+    "figure_83": {
+        "diag": "19.6468827043885",
+        "volume": "528",
+        "surface_area": "514",
+        "alpha": "0.9765490147104143",
+        "beta": "1.4175006554079306",
+        "gamma": "0.6191387734176051",
+        "radius_described_sphere": "9.82344135219425",
+        "volume_described_sphere": "3970.814319139707"
+    },
+    "figure_84": {
+        "diag": "25.45584412271571",
+        "volume": "3136",
+        "surface_area": "1288",
+        "alpha": "0.9884656856146428",
+        "beta": "0.8911225078866528",
+        "gamma": "0.9884656856146428",
+        "radius_described_sphere": "12.727922061357855",
+        "volume_described_sphere": "8636.964431779863"
+    },
+    "figure_85": {
+        "diag": "22.045407685048602",
+        "volume": "1350",
+        "surface_area": "810",
+        "alpha": "0.8224691545143298",
+        "beta": "0.8224691545143298",
+        "gamma": "1.2951535275786312",
+        "radius_described_sphere": "11.022703842524301",
+        "volume_described_sphere": "5609.872957127992"
+    },
+    "figure_86": {
+        "diag": "23.0",
+        "volume": "756",
+        "surface_area": "696",
+        "alpha": "1.4399888307171895",
+        "beta": "0.9163807645457199",
+        "gamma": "0.6719508964959136",
+        "radius_described_sphere": "11.5",
+        "volume_described_sphere": "6370.6263027045015"
+    },
+    "figure_87": {
+        "diag": "19.131126469708992",
+        "volume": "38",
+        "surface_area": "118",
+        "alpha": "1.518501657383357",
+        "beta": "0.11714891780924092",
+        "gamma": "1.4660632874635016",
+        "radius_described_sphere": "9.565563234854496",
+        "volume_described_sphere": "3666.2345887002352"
+    },
+    "figure_88": {
+        "diag": "22.759613353482084",
+        "volume": "510",
+        "surface_area": "638",
+        "alpha": "1.4828078817711685",
+        "beta": "0.7273528132902922",
+        "gamma": "0.8512252256113769",
+        "radius_described_sphere": "11.379806676741042",
+        "volume_described_sphere": "6172.957144816486"
+    },
+    "figure_89": {
+        "diag": "18.841443681416774",
+        "volume": "945",
+        "surface_area": "606",
+        "alpha": "1.0727952028941519",
+        "beta": "0.6499445768696539",
+        "gamma": "1.1901491254332899",
+        "radius_described_sphere": "9.420721840708387",
+        "volume_described_sphere": "3502.2016789434156"
+    },
+    "figure_90": {
+        "diag": "6.4031242374328485",
+        "volume": "12",
+        "surface_area": "40",
+        "alpha": "0.3567333885140938",
+        "beta": "1.2531331338126361",
+        "gamma": "1.4139806414504958",
+        "radius_described_sphere": "3.2015621187164243",
+        "volume_described_sphere": "137.45938843966883"
+    },
+    "figure_91": {
+        "diag": "19.6468827043885",
+        "volume": "228",
+        "surface_area": "290",
+        "alpha": "1.3657682594941283",
+        "beta": "1.4175006554079306",
+        "gamma": "0.25732371497108836",
+        "radius_described_sphere": "9.82344135219425",
+        "volume_described_sphere": "3970.814319139707"
+    },
+    "figure_92": {
+        "diag": "18.466185312619388",
+        "volume": "1008",
+        "surface_area": "620",
+        "alpha": "1.0617126511856294",
+        "beta": "1.122729181963535",
+        "gamma": "0.7103364777511219",
+        "radius_described_sphere": "9.233092656309694",
+        "volume_described_sphere": "3297.0853587036504"
+    },
+    "figure_93": {
+        "diag": "21.42428528562855",
+        "volume": "221",
+        "surface_area": "502",
+        "alpha": "1.524103358916614",
+        "beta": "0.9187828975008817",
+        "gamma": "0.65427058395952",
+        "radius_described_sphere": "10.712142642814275",
+        "volume_described_sphere": "5148.937860523304"
+    },
+    "figure_94": {
+        "diag": "24.535688292770594",
+        "volume": "2640",
+        "surface_area": "1162",
+        "alpha": "1.1059040312652781",
+        "beta": "0.9130254255826017",
+        "gamma": "0.8604302886112007",
+        "radius_described_sphere": "12.267844146385297",
+        "volume_described_sphere": "7733.80752183083"
+    },
+    "figure_95": {
+        "diag": "17.320508075688775",
+        "volume": "280",
+        "surface_area": "376",
+        "alpha": "0.9553166181245093",
+        "beta": "0.6295536766815493",
+        "gamma": "1.455068120905584",
+        "radius_described_sphere": "8.660254037844387",
+        "volume_described_sphere": "2720.699046351327"
+    },
+    "figure_96": {
+        "diag": "18.411952639521967",
+        "volume": "425",
+        "surface_area": "390",
+        "alpha": "1.2957799240892727",
+        "beta": "0.39417619195409",
+        "gamma": "1.2957799240892727",
+        "radius_described_sphere": "9.205976319760984",
+        "volume_described_sphere": "3268.1213160069447"
+    },
+    "figure_97": {
+        "diag": "21.0",
+        "volume": "608",
+        "surface_area": "520",
+        "alpha": "1.1799701962194549",
+        "beta": "0.4399759547909189",
+        "gamma": "1.3791491318194802",
+        "radius_described_sphere": "10.5",
+        "volume_described_sphere": "4849.048260815845"
+    },
+    "figure_98": {
+        "diag": "22.293496809607955",
+        "volume": "1140",
+        "surface_area": "728",
+        "alpha": "0.5504934894452805",
+        "beta": "1.1056413652673263",
+        "gamma": "1.2982996966108846",
+        "radius_described_sphere": "11.146748404803978",
+        "volume_described_sphere": "5801.4052737577085"
+    },
+    "figure_99": {
+        "diag": "13.038404810405298",
+        "volume": "60",
+        "surface_area": "154",
+        "alpha": "1.1772321914668327",
+        "beta": "1.4940244355251187",
+        "gamma": "0.40180143867070844",
+        "radius_described_sphere": "6.519202405202649",
+        "volume_described_sphere": "1160.5717750621413"
+    },
+    "figure_100": {
+        "diag": "21.447610589527216",
+        "volume": "1080",
+        "surface_area": "696",
+        "alpha": "1.0857465398654136",
+        "beta": "0.5748859387892159",
+        "gamma": "1.2872611219056105",
+        "radius_described_sphere": "10.723805294763608",
+        "volume_described_sphere": "5165.773616325357"
+    }
+}
